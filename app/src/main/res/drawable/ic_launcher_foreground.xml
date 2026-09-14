@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Stylized Location / Pinterest-inspired Pin -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,27 C37.5,27 29,35.5 29,46 C29,58 48,79 48,79 C48,79 67,58 67,46 C67,35.5 58.5,27 48,27 Z M48,53 C44.13,53 41,49.87 41,46 C41,42.13 44.13,39 48,39 C51.87,39 55,42.13 55,46 C55,49.87 51.87,53 48,53 Z" />
+
+    <!-- AI Sparkle 4-point Star 1 (Top Right) -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M73,25 C73,30 76,33 81,33 C76,33 73,36 73,41 C73,36 70,33 65,33 C70,33 73,30 73,25 Z" />
+
+    <!-- Mini AI Sparkle Star 2 -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M81,45 C81,47.5 82.5,49 85,49 C82.5,49 81,50.5 81,53 C81,50.5 79.5,49 77,49 C79.5,49 81,47.5 81,45 Z" />
+</vector>

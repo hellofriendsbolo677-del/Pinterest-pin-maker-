@@ -1,0 +1,6 @@
+{
+  "name": "PinCraft AI",
+  "description": "AI-powered Pinterest pin creation tool for generating engaging titles, descriptions, keywords, image prompts, and hooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
